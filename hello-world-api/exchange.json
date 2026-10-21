@@ -4,8 +4,8 @@
   "classifier": "oas",
   "organizationId": "",
   "descriptorVersion": "1.0.0",
+  "tags": [],
   "groupId": "",
   "assetId": "hello-world-api",
-  "version": "1.0.0",
-  "tags": []
+  "version": "1.0.0"
 }
